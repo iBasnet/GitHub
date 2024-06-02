@@ -1,2 +1,1 @@
-# Coders Unite. 🫱🏿‍🫲🏻
-# Together We Rise. 📈
+# Coders Unite. 🤝 Together We Rise. 📈
