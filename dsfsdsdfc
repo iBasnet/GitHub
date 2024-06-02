@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex fc048c6..fcd5b20 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -38,7 +38,7 @@[m
+         <p>Coders Unite. Together We Rise.</p>[m
+     </div>[m
+     <script>[m
+[31m-        document.querySelector("h1").addEventListener("click", () => {[m
+[32m+[m[32m        document.querySelector("h1").addEventListener("pointerenter", () => {[m
+             alert("Hello, World!👋🌎");[m
+         }[m
+         )[m
