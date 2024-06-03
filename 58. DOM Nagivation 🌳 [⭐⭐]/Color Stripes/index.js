@@ -3,11 +3,13 @@
 const heroElement = document.querySelector(".hero");
 
 let divCount = Number(prompt("How many divs? [ Max = 20 ]", "10"));
+
 if (divCount > 20) {
     divCount = 20;
 }
 
 const divAlign = prompt("Orientation: Row or Column? [ R / C ]", "C").toUpperCase();
+
 if (divAlign.includes("R")) {
     heroElement.style.gridAutoFlow = "row";
 }
